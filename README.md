@@ -1,3 +1,6 @@
+# New in this branch
+You can add label in a connection ⭐ [LIVE DEMO](https://modaresimr.github.io/Drawflow/) delete a connection and create it again
+
 [![npm](https://img.shields.io/npm/v/drawflow?color=green)](https://www.npmjs.com/package/drawflow)
 ![npm](https://img.shields.io/npm/dy/drawflow)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/drawflow)
@@ -13,7 +16,7 @@ Drawflow allows you to create data flows easily and quickly.
 
 Installing only a javascript library and with four lines of code.
 
-⭐ [LIVE DEMO](https://jerosoler.github.io/Drawflow/)
+⭐ [LIVE DEMO](https://modaresimr.github.io/Drawflow/)
 
 🎨 [THEME EDIT GENERATOR](https://jerosoler.github.io/drawflow-theme-generator/)
 
